@@ -8,7 +8,7 @@ endif
 
 all: service
 
-run:c
+run:
 	go run main.go
 
 build:
